@@ -1,4 +1,4 @@
-import torch 
+import torch
 number = torch.tensor([45.0, 78.0, 92.0, 34.0, 88.0])
 min = torch.min(number)
 max = torch.max(number)
